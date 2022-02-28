@@ -2,7 +2,7 @@ Truly one of the most fun projects I have worked on during my graduate studies, 
 
 This repository contains 4 components:
 
-Task_instructions: This document loosely defines the problem statement for this task, along with some implementational constraints to adhere to.
-Assignment_P2_Codes: A well-commented python code that walks through different steps delineated int he report.
-Assignment_P2_Report: A report re-iterating the problem statement, delineating different implementation steps and final results obtained from codes.
-P2 AITA_Combined: The dataset used for this task.
+1. Task_instructions: This document loosely defines the problem statement for this task, along with some implementational constraints to adhere to.
+2. Assignment_P2_Codes: A well-commented python code that walks through different steps delineated int he report.
+3. Assignment_P2_Report: A report re-iterating the problem statement, delineating different implementation steps and final results obtained from codes.
+4. P2 AITA_Combined: The dataset used for this task.
